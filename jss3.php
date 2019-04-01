@@ -51,7 +51,7 @@
                 
                 <li>
                 
-                    <h3>CFA stands for ...</h3>
+                    <h3>CFA is an acronym that stands for ...</h3>
                     
                     <div>
                         <input type="radio" name="question-2-answers" id="question-2-answers-A" value="A" />
