@@ -228,26 +228,26 @@
                 </li>
 				 <li>
                 
-                    <h3>When typing, the little finger on the left should be on which key...</h3>
+                    <h3>When typing, the left thumb should be on which key...</h3>
                     
                     <div>
                         <input type="radio" name="question-9-answers" id="question-9-answers-A" value="A" />
-                        <label for="question-9-answers-A">A) S</label>
+                        <label for="question-9-answers-A">A) Enter</label>
                     </div>
                     
                     <div>
                         <input type="radio" name="question-9-answers" id="question-9-answers-B" value="B" />
-                        <label for="question-9-answers-B">B) G</label>
+                        <label for="question-9-answers-B">B) Shift</label>
                     </div>
                     
                     <div>
                         <input type="radio" name="question-9-answers" id="question-9-answers-C" value="C" />
-                        <label for="question-9-answers-C">C) K</label>
+                        <label for="question-9-answers-C">C) Contorl</label>
                     </div>
                     
                     <div>
                         <input type="radio" name="question-9-answers" id="question-9-answers-D" value="D" />
-                        <label for="question-9-answers-D">D) A</label>
+                        <label for="question-9-answers-D">D) Space Bar</label>
                     </div>
                 
                 </li>
